@@ -40,6 +40,11 @@
 + [Developing Synthesis Flows Without Human Knowledge](https://ieeexplore.ieee.org/document/8465913)
 + [Digital Compatible Synthesis, Placement and Implementation of Mixed-Signal Time-Domain Computing | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/8806926)
 
+## GPU-CPU platform
++ [CPU–GPU Heterogeneous Computation Offloading and Resource Allocation Scheme for Industrial Internet of Things](https://ieeexplore.ieee.org/document/10319405/)
++ [Invited Paper: Heterogeneous Acceleration for Design Rule Checking](https://ieeexplore.ieee.org/document/10323957)
++ CUDA GPU BFS [Scalable GPU Graph Traversal](https://dl.acm.org/doi/10.1145/2370036.2145832)
+
 ## CEC
 
 + [Robust Boolean reasoning for equivalence checking and functional property verification](https://doi.org/10.1109/TCAD.2002.804386)
