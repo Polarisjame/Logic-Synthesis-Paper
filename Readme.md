@@ -31,6 +31,16 @@
 + [The Tao of Parallelism in Algorithms](https://dl.acm.org/doi/10.1145/1993316.1993501)
 + [Unlocking fine-grain parallelism for AIG rewriting](https://doi.org/10.1145/3240765.3240861)
 
+## Parallel Hashmap
+
++ Parallel Cuckoo Hashing:[Better GPU Hash Tables](http://arxiv.org/abs/2108.07232)
+
+## cuda Learning
+
++ warp scan
++ tiling
++ __device__/__host__/__global
+
 ## AI4EDA
 
 + [Classifying Three-input Boolean Functions by Neural Networks](https://doi.org/10.1109/SNPD.2019.8935697)
